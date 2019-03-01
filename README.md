@@ -23,4 +23,4 @@ Jawab: Huruf, Angka , dan Karakter Garis Bawah
 Jelaskan mengapa di Python ada aturan Indentation?
 
 Jawab:karena jika tidak ada aturan indentation akan beresiko terjadi error
-      kedua agar mudah dalam menulis program
+      kedua agar mudah dalam menulis program dan sebagai penanda blok kode program
